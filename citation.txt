@@ -1,0 +1,6 @@
+@inproceedings{REPO099,
+    author = "Venkataramanan, Shashanka and Kijak, Ewa and Amsaleg, Laurent and Avrithis, Yannis",
+    booktitle = "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{AlignMixup: Improving Representations By Interpolating Aligned Features}",
+    year = "2022"
+}
